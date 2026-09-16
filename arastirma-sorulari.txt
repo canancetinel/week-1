@@ -1,0 +1,14 @@
+1. Git repository nedir?
+Projenin geçmişinin, commit'lerinin ve tüm dosyalarının versiyonlarıyla birlikte saklandığı özel bir klasördür (depodur).
+
+2. Working tree nedir?
+Üzerinde o an aktif olarak çalıştığın, değişiklik yaptığın veya dosyaları düzenlediğin çalışma dizinidir.
+
+3. Bir dosyanın Git tarafından takip edilmesi ne anlama gelir?
+`git add` komutuyla dosyanın Git'in takip mekanizmasına (`staging area`) sokulması ve sonraki değişikliklerinin izlenmeye başlanmasıdır.
+
+4. Commit'i neden bir kayıt noktası olarak düşünebiliriz?
+Projenin o anki tam halinin (fotoğrafının) kalıcı olarak tarihçeye işlenmesini sağlayan güvenli bir durak olduğu için.
+
+5. Git'in çalışma alanını hangi mekanizma üzerinden takip ettiğini nasıl anlayabilirsin?
+`git status` komutunu kullanarak dosyaların durumunu anlık olarak görebiliriz.
